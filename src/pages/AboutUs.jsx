@@ -5,7 +5,7 @@ const AboutUs = () => {
       <p>[Couple&apos;s Story]</p>
       <img
         className="couple__img"
-        src="../../public/images/love-story.jpeg"
+        src="/src/assets/images/love-story.jpeg"
         alt="Love Story"
       />
     </div>

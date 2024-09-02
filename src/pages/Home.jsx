@@ -5,7 +5,7 @@ const Home = () => {
       <p>We are so excited to share our special day with you!</p>
       <img
         className="couple__img"
-        src="../../public/images/couple.jpeg"
+        src="src/assets/images/couple.jpeg"
         alt="Couple"
       />
     </div>
